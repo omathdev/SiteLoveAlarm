@@ -134,6 +134,11 @@ cursor:pointer;
 .Text{
 	width:90%;
 }
+button {
+position:relative;
+left:50%;
+bottom:2cm;
+}
 .menu {
 	line-height:1.8;
 	
