@@ -126,7 +126,7 @@ cursor:pointer;
 	display:none;	
 }
 html,body {
-	overflow-x:visible;
+	overflow-x:scroll;
 	}	
 
 .lorem {
