@@ -125,6 +125,9 @@ cursor:pointer;
 .extras {
 	display:none;	
 }
+html,body {
+	overflow-x:visible;
+	}	
 
 .lorem {
 	font-size:20%;
